@@ -31,8 +31,6 @@ The project demonstrates practical exposure to core **LLMOps** concepts, includi
 └── README.md
 ```
 
-*(Structure may vary depending on uploaded files.)*
-
 ## Key Concepts Demonstrated
 
 ### 1. Data Preparation for Supervised Fine-Tuning

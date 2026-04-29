@@ -19,18 +19,15 @@ The project demonstrates practical exposure to core **LLMOps** concepts, includi
 ```text
 .
 ├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_pipeline_orchestration.ipynb
-│   ├── 03_prediction_and_safety.ipynb
-│   └── ...
+│   ├── L2_data.ipynb
+│   ├── L3_automation.ipynb
+│   ├── L4_predictions_prompts_safety.ipynb
 ├── data/
-│   ├── training_data.jsonl
-│   ├── validation_data.jsonl
-│   └── processed datasets
+│   ├── tune_data_stack_overflow_python_qa-10_27_04_2026.jsonl
+│   └── tune_eval_data_stack_overflow_python_qa-10_27_04_2026.jsonl
 ├── pipeline/
 │   └── pipeline.yml
-├── configs/
-│   └── tuning and experiment configs
+├── requirements.txt
 └── README.md
 ```
 
